@@ -1,0 +1,7 @@
+D:\Projetos\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.exe.config
+D:\Projetos\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.exe
+D:\Projetos\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.pdb
+D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.AssemblyReference.cache
+D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.CoreCompileInputs.cache
+D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.exe
+D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.pdb

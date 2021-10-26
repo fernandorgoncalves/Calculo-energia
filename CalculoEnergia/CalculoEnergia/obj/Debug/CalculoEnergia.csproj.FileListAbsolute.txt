@@ -5,3 +5,10 @@ D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.Assemb
 D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.CoreCompileInputs.cache
 D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.exe
 D:\Projetos\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.pdb
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.exe.config
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.exe
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\bin\Debug\CalculoEnergia.pdb
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.AssemblyReference.cache
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.csproj.CoreCompileInputs.cache
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.exe
+D:\Projetos\Calculo-energia\CalculoEnergia\CalculoEnergia\obj\Debug\CalculoEnergia.pdb
